@@ -1,7 +1,7 @@
 # Shopify front-end challenge
 
 Hey!
-I found and started the application process and this challenge a little late ( on 05/20/2022) and i certainly wanted to submit this as quick as possible while also challenging myself a bit.
+I found and started the application process and this challenge a little late ( on 05/20/2022 ) and i certainly wanted to submit this as quick as possible while also challenging myself a bit.
 
 You'll find the client side facing code is all in plain DOM js, html and css. I decided it would be fun to not rely on something like react or bootstrap.
 
