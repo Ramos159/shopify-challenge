@@ -44,7 +44,7 @@ function pressSubmit(event){
         prompt:promptString
     };
     
-    fetch("http://localhost:3000/getResponse", {
+    fetch("https://shopify-chall-server.herokuapp.com/getResponse", {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
