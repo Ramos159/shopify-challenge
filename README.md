@@ -7,7 +7,7 @@ You'll find the client side facing code is all in plain DOM js, html and css. I 
 
 Server side code however does use a minimal amount of express to keep my api key secret, if i weren't pressed for time i could probably lifted the server up in straight low level node which would've been interesting.
 
-The application should have the link to the client site, but if not and you find yourself here the link is []().
+The application should have the link to the client site, but if not and you find yourself here the link is [here](https://ramos159.github.io/shopify-challenge/).
 
 Hope to hear back soon!
 

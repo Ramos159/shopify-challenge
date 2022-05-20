@@ -35,13 +35,10 @@ function pressSubmit(event){
     // get textarea value
     const promptString = document.querySelector(".textarea").value;
 
-    // check if its empty, if it is return and cancel loader
+    // check if its empty, if it is return
     if(!promptString){
         return;
     }
-
-    // // start loader
-    // document.querySelector(".responses-header").insertAdjacentElement("beforeend",createLoader());
         
     const data = {
         prompt:promptString
