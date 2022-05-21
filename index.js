@@ -47,6 +47,7 @@ function pressSubmit(event){
     fetch("https://shopify-chall-server.herokuapp.com/getResponse", {
         method: "POST",
         headers: {
+            "Access-Control-Request-Headers":"Content-Type",
             "Content-Type": "application/json",
         },
         body: JSON.stringify(data),
